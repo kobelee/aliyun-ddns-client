@@ -6,7 +6,7 @@
 ## 使用方法
 1. 获取阿里云的accessKeyId和secret
    
-   ![获取accessKeyId和secret](./.assets/阿里云accessKey截图.png)
+   ![获取accessKeyId和secret](./assets/阿里云accessKey截图.png)
 2. 在application.yml中填入第1步获取的id和secret, 以及region
 ```yaml
 aliyun-auth-key-id: 你的阿里云authKeyId
