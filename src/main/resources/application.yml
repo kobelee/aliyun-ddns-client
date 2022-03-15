@@ -1,0 +1,11 @@
+ddns:
+  target-domain-name: yourdomain.com
+  # 目标记录名  自动配置 xxx.yourdomain.com的dns解析
+  target-record-name: xxx
+
+aliyun-auth-key-id: 你的阿里云authKeyId
+aliyun-auth-key-security: 你的阿里云authKeySecurity
+
+logging:
+  file:
+    path: /usr/local/logs
