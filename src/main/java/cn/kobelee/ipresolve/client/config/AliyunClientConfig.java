@@ -20,11 +20,12 @@ public class AliyunClientConfig {
     private String aliyunAuthKeyId;
     @Value("${aliyun-auth-key-security}")
     private String aliyunAuthKeySecurity;
+    @Value("${aliyun-region-id}")
+    private String aliyunRegionId;
 
     @Bean
     public IAcsClient acsClient(){
-        String regionId = "cn-hangzhou";
-        DefaultProfile profile = DefaultProfile.getProfile(regionId, aliyunAuthKeyId, aliyunAuthKeySecurity);
+        DefaultProfile profile = DefaultProfile.getProfile(aliyunRegionId, aliyunAuthKeyId, aliyunAuthKeySecurity);
         return new DefaultAcsClient(profile);
     }
 }

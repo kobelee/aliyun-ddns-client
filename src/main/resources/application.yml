@@ -5,6 +5,7 @@ ddns:
 
 aliyun-auth-key-id: 你的阿里云authKeyId
 aliyun-auth-key-security: 你的阿里云authKeySecurity
+aliyun-region-id: cn-hangzhou
 
 logging:
   file:
