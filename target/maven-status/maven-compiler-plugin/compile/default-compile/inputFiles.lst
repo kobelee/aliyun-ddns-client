@@ -1,0 +1,6 @@
+/home/runner/work/aliyun-ddns-client/aliyun-ddns-client/src/main/java/cn/kobelee/ipresolve/client/ClientApplication.java
+/home/runner/work/aliyun-ddns-client/aliyun-ddns-client/src/main/java/cn/kobelee/ipresolve/client/config/AliyunClientConfig.java
+/home/runner/work/aliyun-ddns-client/aliyun-ddns-client/src/main/java/cn/kobelee/ipresolve/client/ddns/IpHandleService.java
+/home/runner/work/aliyun-ddns-client/aliyun-ddns-client/src/main/java/cn/kobelee/ipresolve/client/domain/CityInfo.java
+/home/runner/work/aliyun-ddns-client/aliyun-ddns-client/src/main/java/cn/kobelee/ipresolve/client/feign/SohuCityFeign.java
+/home/runner/work/aliyun-ddns-client/aliyun-ddns-client/src/main/java/cn/kobelee/ipresolve/client/job/ReportServerTask.java
