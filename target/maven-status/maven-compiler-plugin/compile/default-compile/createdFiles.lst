@@ -1,6 +1,0 @@
-cn/kobelee/ipresolve/client/ddns/IpHandleService.class
-cn/kobelee/ipresolve/client/feign/SohuCityFeign.class
-cn/kobelee/ipresolve/client/config/AliyunClientConfig.class
-cn/kobelee/ipresolve/client/job/ReportServerTask.class
-cn/kobelee/ipresolve/client/domain/CityInfo.class
-cn/kobelee/ipresolve/client/ClientApplication.class

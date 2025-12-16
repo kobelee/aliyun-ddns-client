@@ -25,7 +25,7 @@ ddns:
 *jar*
 ```shell
 mvn clean package
-java -jar ddns-cient-1.0-SNAPSHOT.jar
+java -jar ddns-client-1.0-SNAPSHOT.jar
 ```
 
 *docker*
